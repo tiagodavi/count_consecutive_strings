@@ -1,4 +1,4 @@
-# The goal is to count the frequency of consecutives strings in a row.
+# The goal is to count the frequency of consecutive strings in a row.
 
 str = "nBalooonnn"
 target = String.split(str, "", trim: true)
